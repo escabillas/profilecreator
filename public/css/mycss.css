@@ -1,0 +1,88 @@
+.bg-gray-1 {
+	background-color: #F3F3F3;
+}
+.bg-gray-2 {
+	background-color: #D2D2D2;
+}
+.w-150p {
+	width: 150px;
+}
+.h-150p {
+	height: 150px;
+}
+.w-40 {
+	width: 40%;
+}
+.w-40p {
+	width: 40px !important;
+}
+.h-40p {
+	height: 40px !important;
+}
+.h-45p {
+	width:  45px !important
+}
+.w-15 {
+	width: 15% !important;
+}
+.w-10 {
+	width: 15% !important;
+}
+.w-60 {
+	width: 60% !important;
+}
+.hidden-html {
+	display:  none !important;
+}
+
+.container-fluid div.card {
+	width: 800px !important;
+}
+
+/* Custom gray button */
+.btn-cust-gray {
+	border-color: #B2B2B2;
+}
+.btn-cust-gray:hover {
+	background-color: #B2B2B2;
+	border-color: #B2B2B2;
+}
+.btn-cust-gray:focus {
+	background-color: #B2B2B2;
+	border-color: #B2B2B2;
+	box-shadow: 0 0 0 0.25rem rgba(194,194, 194, .5);
+}
+.btn-cust-gray .bi-pencil {
+	fill: #A2A2A2;
+}
+.btn-cust-gray:hover .bi-pencil, .btn-cust-gray:focus .bi-pencil {
+	fill: white !important;
+}
+
+.btn-form-wrapper {
+	min-height: 45px !important;
+}
+
+/* Profile css */
+.profile-wrapper {
+	height: 170px;
+}
+.profile-image-wrapper {
+	min-width: 170px;
+	max-width: 170px;
+}
+.profile-image {
+	vertical-align: middle !important;
+}
+.profile-btn-wrapper {
+	width: 75px;
+}
+
+/* Search css */
+.search-form .form-control {
+	width: 400px;
+}
+.profile-image-search-wrapper {
+	min-width: 70px;
+	max-width: 70px;
+}
